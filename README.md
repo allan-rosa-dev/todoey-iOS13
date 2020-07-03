@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
@@ -17,3 +18,7 @@ A todolist app to keep track of all your tasks.
 
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
 
+=======
+# todoey-iOS13
+App developed during iOS13 &amp; Swift 5.1 course by London App Brewery. Further updates are the outcomings of my own studies.
+>>>>>>> 4c87df3fb89d45fa30b1a4c0b26ad3a264594ddf
